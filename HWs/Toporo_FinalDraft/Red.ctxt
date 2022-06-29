@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Red
+comment1.params=
+comment1.target=Red()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=counter
+comment3.target=void\ setCounter(int)
+comment4.params=count
+comment4.target=void\ barLength(int)
+numComments=5

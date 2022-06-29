@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Toporo
+comment1.params=
+comment1.target=Toporo()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=speed
+comment3.target=void\ setSpeed(int)
+comment4.params=option
+comment4.target=void\ switchImage(int)
+numComments=5
